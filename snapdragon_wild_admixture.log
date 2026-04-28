@@ -1,0 +1,30 @@
+PLINK v1.9.0-b.8 64-bit (22 Oct 2024)
+Options in effect:
+  --file snapdragon_wild_admixture
+  --make-bed
+  --out snapdragon_wild_admixture
+
+Hostname: Seans-MacBook-Pro.local
+Working directory: /Users/sean/projects/Snapdragons/pipeline_out
+Start time: Sat Apr 18 14:00:34 2026
+
+Random number seed: 1776517234
+24576 MB RAM detected; reserving 12288 MB for main workspace.
+Scanning .ped file... done.
+Performing single-pass .bed write (76 variants, 319 people).
+--file: snapdragon_wild_admixture-temporary.bed +
+snapdragon_wild_admixture-temporary.bim +
+snapdragon_wild_admixture-temporary.fam written.
+76 variants loaded from .bim file.
+319 people (0 males, 0 females, 319 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to snapdragon_wild_admixture.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 319 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.98379.
+76 variants and 319 people pass filters and QC.
+Note: No phenotypes present.
+--make-bed to snapdragon_wild_admixture.bed + snapdragon_wild_admixture.bim +
+snapdragon_wild_admixture.fam ... done.
+
+End time: Sat Apr 18 14:00:34 2026
